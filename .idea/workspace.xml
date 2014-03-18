@@ -67,8 +67,10 @@
       <file leaf-file-name="principal.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/principal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="111" column="68" selection-start="4283" selection-end="4283" vertical-scroll-proportion="0.9" vertical-offset="1320" max-vertical-offset="14858">
-              <folding />
+            <state line="211" column="39" selection-start="8348" selection-end="8348" vertical-scroll-proportion="0.30528054" vertical-offset="3402" max-vertical-offset="17408">
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,38 +146,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="desafioeco" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="desafioeco" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="desafioeco" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="desafioeco" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="desafioeco" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slides" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -404,15 +374,15 @@
       <updated>1395071121597</updated>
       <workItem from="1395071128752" duration="288000" />
       <workItem from="1395083392095" duration="5676000" />
-      <workItem from="1395156511177" duration="1722000" />
+      <workItem from="1395156511177" duration="5696000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7686000" />
+    <option name="totallyTimeSpent" value="11660000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -489,7 +459,9 @@
     <entry file="file://$PROJECT_DIR$/principal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="118" column="11" selection-start="4328" selection-end="4328" vertical-scroll-proportion="0.0" vertical-offset="1888" max-vertical-offset="14756">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -578,8 +550,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/principal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="68" selection-start="4283" selection-end="4283" vertical-scroll-proportion="0.9" vertical-offset="1320" max-vertical-offset="14858">
-          <folding />
+        <state line="211" column="39" selection-start="8348" selection-end="8348" vertical-scroll-proportion="0.30528054" vertical-offset="3402" max-vertical-offset="17408">
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
