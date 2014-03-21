@@ -64,14 +64,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="principal.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="principal.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/principal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="211" column="39" selection-start="8348" selection-end="8348" vertical-scroll-proportion="0.30528054" vertical-offset="3402" max-vertical-offset="17408">
+            <state line="88" column="31" selection-start="3369" selection-end="3369" vertical-scroll-proportion="51.653847" vertical-offset="2839" max-vertical-offset="8857">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="videos.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fotos.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fotos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calendario.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/calendario.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="156" column="106" selection-start="5781" selection-end="5781" vertical-scroll-proportion="0.02643857" vertical-offset="2635" max-vertical-offset="5134">
               <folding>
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1395437316928" expanded="true" signature="5402:5530" placeholder="..." />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="device.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/device.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -89,9 +132,10 @@
         <option value="$PROJECT_DIR$/css/skins/green.css" />
         <option value="$PROJECT_DIR$/css/skins/blue.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/css/theme.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/principal.html" />
+        <option value="$PROJECT_DIR$/calendario.html" />
       </list>
     </option>
   </component>
@@ -130,7 +174,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -149,8 +192,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="desafioeco" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="desafioeco" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="desafioeco" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="desafioeco" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calendar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,11 +244,14 @@
     <property name="FullScreen" value="false" />
     <property name="LayoutCode.rearrangeEntriesCSS" value="false" />
     <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\All\Trabajo\desafioeco\img\slides" />
+      <recent name="C:\Users\Administrator\Desktop\All\Trabajo\desafioeco\img\calendar" />
+      <recent name="C:\Users\Administrator\Desktop\All\Trabajo\desafioeco\img\logos" />
       <recent name="C:\Users\Administrator\Desktop\All\Trabajo\desafioeco\img" />
+      <recent name="C:\Users\Administrator\Desktop\All\Trabajo\desafioeco\img\slides" />
     </key>
   </component>
   <component name="RunManager">
@@ -374,12 +453,14 @@
       <updated>1395071121597</updated>
       <workItem from="1395071128752" duration="288000" />
       <workItem from="1395083392095" duration="5676000" />
-      <workItem from="1395156511177" duration="5696000" />
+      <workItem from="1395156511177" duration="6486000" />
+      <workItem from="1395253753515" duration="401000" />
+      <workItem from="1395428704760" duration="5869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11660000" />
+    <option name="totallyTimeSpent" value="18720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -458,18 +539,28 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/principal.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="211" column="39" selection-start="8348" selection-end="8348" vertical-scroll-proportion="0.0" vertical-offset="3587" max-vertical-offset="17408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="211" column="39" selection-start="8348" selection-end="8348" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="17408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="118" column="11" selection-start="4328" selection-end="4328" vertical-scroll-proportion="0.0" vertical-offset="1888" max-vertical-offset="14756">
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index-slider-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="274" column="20" selection-start="11036" selection-end="12281" vertical-scroll-proportion="0.0" vertical-offset="4658" max-vertical-offset="13957">
-          <folding />
-        </state>
+        <state line="274" column="20" selection-start="11036" selection-end="12281" vertical-scroll-proportion="0.0" vertical-offset="4658" max-vertical-offset="13957" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/master/less/skin.less">
@@ -487,13 +578,6 @@
     <entry file="file://$PROJECT_DIR$/css/skins/blue.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="264" column="0" selection-start="0" selection-end="6233" vertical-scroll-proportion="0.8579387" vertical-offset="3872" max-vertical-offset="4590" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="16150">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
@@ -522,18 +606,9 @@
         <state line="8" column="58" selection-start="171" selection-end="171" vertical-scroll-proportion="-4.230769" vertical-offset="26" max-vertical-offset="5355" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5306" column="2631" selection-start="113872" selection-end="113872" vertical-scroll-proportion="0.024926687" vertical-offset="90185" max-vertical-offset="92361">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index-slider-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="274" column="20" selection-start="11036" selection-end="12281" vertical-scroll-proportion="0.0" vertical-offset="4658" max-vertical-offset="13957">
-          <folding />
-        </state>
+        <state line="274" column="20" selection-start="11036" selection-end="12281" vertical-scroll-proportion="0.0" vertical-offset="4658" max-vertical-offset="13957" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/slides/slide-bg-full.jpg">
@@ -548,11 +623,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/logos/logo-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="490.3846" vertical-offset="12750" max-vertical-offset="16150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="757" column="4" selection-start="11986" selection-end="12033" vertical-scroll-proportion="-9.038462" vertical-offset="12634" max-vertical-offset="92361">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="704" column="0" selection-start="0" selection-end="29074" vertical-scroll-proportion="-21.307692" vertical-offset="11414" max-vertical-offset="12070">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fotos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/principal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="211" column="39" selection-start="8348" selection-end="8348" vertical-scroll-proportion="0.30528054" vertical-offset="3402" max-vertical-offset="17408">
+        <state line="88" column="31" selection-start="3369" selection-end="3369" vertical-scroll-proportion="51.653847" vertical-offset="2839" max-vertical-offset="8857">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/device.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="106" selection-start="5781" selection-end="5781" vertical-scroll-proportion="0.02643857" vertical-offset="2635" max-vertical-offset="5134">
           <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1395437316928" expanded="true" signature="5402:5530" placeholder="..." />
           </folding>
         </state>
       </provider>
