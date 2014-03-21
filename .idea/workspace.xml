@@ -64,70 +64,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="principal.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="principal.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/principal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="415" column="9" selection-start="14527" selection-end="16883" vertical-scroll-proportion="-4.0384617" vertical-offset="6029" max-vertical-offset="8041">
-              <folding>
-                <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="news.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+            <state line="499" column="67" selection-start="21825" selection-end="21825" vertical-scroll-proportion="0.87042683" vertical-offset="7912" max-vertical-offset="13889">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="videos.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/videos.html">
+      <file leaf-file-name="accordion.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accordion.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="38" selection-start="3645" selection-end="3645" vertical-scroll-proportion="0.529148" vertical-offset="1312" max-vertical-offset="4284">
-              <folding>
-                <element signature="tag#footer#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fotos.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fotos.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+            <state line="7" column="0" selection-start="66" selection-end="2429" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="1088">
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="calendario.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/calendario.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="156" column="106" selection-start="5781" selection-end="5781" vertical-scroll-proportion="-0.32692307" vertical-offset="2635" max-vertical-offset="5134">
-              <folding>
-                <marker date="1395437316928" expanded="true" signature="5402:5530" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="portfolio-2-columns.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio-2-columns.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="543" column="0" selection-start="0" selection-end="21568" vertical-scroll-proportion="-21.307692" vertical-offset="8677" max-vertical-offset="9333">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="device.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/device.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -147,9 +98,10 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/theme.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/principal.html" />
         <option value="$PROJECT_DIR$/calendario.html" />
         <option value="$PROJECT_DIR$/videos.html" />
+        <option value="$PROJECT_DIR$/accordion.html" />
+        <option value="$PROJECT_DIR$/principal.html" />
       </list>
     </option>
   </component>
@@ -230,6 +182,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\All\Trabajo\desafioeco\img\escuelas" />
       <recent name="C:\Users\Administrator\Desktop\All\Trabajo\desafioeco\img\calendar" />
       <recent name="C:\Users\Administrator\Desktop\All\Trabajo\desafioeco\img\logos" />
       <recent name="C:\Users\Administrator\Desktop\All\Trabajo\desafioeco\img" />
@@ -437,12 +390,12 @@
       <workItem from="1395083392095" duration="5676000" />
       <workItem from="1395156511177" duration="6486000" />
       <workItem from="1395253753515" duration="401000" />
-      <workItem from="1395428704760" duration="7242000" />
+      <workItem from="1395428704760" duration="10630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20093000" />
+    <option name="totallyTimeSpent" value="23481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -522,27 +475,21 @@
     <entry file="file://$PROJECT_DIR$/principal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="211" column="39" selection-start="8348" selection-end="8348" vertical-scroll-proportion="0.0" vertical-offset="3587" max-vertical-offset="17408">
-          <folding>
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/principal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="211" column="39" selection-start="8348" selection-end="8348" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="17408">
-          <folding>
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/principal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="118" column="11" selection-start="4328" selection-end="4328" vertical-scroll-proportion="0.0" vertical-offset="1888" max-vertical-offset="14756">
-          <folding>
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -660,7 +607,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="156" column="106" selection-start="5781" selection-end="5781" vertical-scroll-proportion="-0.32692307" vertical-offset="2635" max-vertical-offset="5134">
           <folding>
-            <marker date="1395437316928" expanded="true" signature="5402:5530" placeholder="..." />
+            <marker date="1395437316928" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -672,21 +619,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/principal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="415" column="9" selection-start="14527" selection-end="16883" vertical-scroll-proportion="-4.0384617" vertical-offset="6029" max-vertical-offset="8041">
-          <folding>
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/videos.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="98" column="38" selection-start="3645" selection-end="3645" vertical-scroll-proportion="0.529148" vertical-offset="1312" max-vertical-offset="4284">
           <folding>
             <element signature="tag#footer#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="66" selection-end="2429" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="1088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="499" column="67" selection-start="21825" selection-end="21825" vertical-scroll-proportion="0.87042683" vertical-offset="7912" max-vertical-offset="13889">
+          <folding />
         </state>
       </provider>
     </entry>
