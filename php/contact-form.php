@@ -5,7 +5,7 @@ header('Expires: ' . gmdate('r', 0));
 header('Content-type: application/json');
 
 // Enter your email address below.
-$to = 'kevin@flipstudios.com.ar';
+$to = 'info@sportlinknet.com.ar';
 
 $subject = $_POST['subject'];
 
